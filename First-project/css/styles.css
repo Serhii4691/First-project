@@ -1,0 +1,77 @@
+html, body{
+	font-style: Times New Roman;
+	font-weight: normal;
+	background: url(../image/33.jpg) no-repeat center;
+	background-size: cover;
+	opacity: 0,1;
+
+}
+
+	a{
+	text-decoration: none;
+	
+	
+}
+
+	a:visited {
+    color: green; 
+   } 
+   
+   a:hover {
+    color: red;
+	background: yellow;
+   }
+   
+   h1{
+	   font-size: 40px;
+		font-weight: 20px;
+		color: #f00;
+		text-align: center;
+   }
+   
+   h2{	   
+	   font-size: 30px;
+		font-weight: 10px;
+		color: #aaa;
+		text-align: center;
+   }
+   
+   #footer{
+	   font-style: italic;
+   }
+   
+   .Logo{
+	   width: 100px;
+	   position: fixed;
+   }
+   
+   .force{
+	  text-align: center;
+   }
+   
+   
+		 .Products{
+		 width: 400px;
+		 transition: 1s;
+		 
+	 }
+	.Products:hover{
+        width: 410px;
+        cursor: pointer;
+		
+	}
+	 
+	 .Products2{
+		  text-align: center;
+		 width: 700px;
+		
+	 }
+	#News{
+		width: 800px;
+		
+	}
+	
+	.News{
+		
+		margin: 10px 0px 0px 20px;
+	}
